@@ -15,33 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\player.cpp">
+    <ClCompile Include="..\src\AIPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\AIPlayer.cpp">
+    <ClCompile Include="..\src\humanPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\humanPlayer.cpp">
+    <ClCompile Include="..\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\main.cpp">
+    <ClCompile Include="..\src\othello.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\othello.cpp">
+    <ClCompile Include="..\src\player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\player.h">
+    <ClInclude Include="..\src\AIPlayer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\AIPlayer.h">
+    <ClInclude Include="..\src\humanPlayer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\humanPlayer.h">
+    <ClInclude Include="..\src\othello.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\othello.h">
+    <ClInclude Include="..\src\player.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

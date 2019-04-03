@@ -115,17 +115,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\AIPlayer.cpp" />
-    <ClCompile Include="..\humanPlayer.cpp" />
-    <ClCompile Include="..\main.cpp" />
-    <ClCompile Include="..\othello.cpp" />
-    <ClCompile Include="..\player.cpp" />
+    <ClCompile Include="..\src\AIPlayer.cpp" />
+    <ClCompile Include="..\src\humanPlayer.cpp" />
+    <ClCompile Include="..\src\main.cpp" />
+    <ClCompile Include="..\src\othello.cpp" />
+    <ClCompile Include="..\src\player.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\AIPlayer.h" />
-    <ClInclude Include="..\humanPlayer.h" />
-    <ClInclude Include="..\othello.h" />
-    <ClInclude Include="..\player.h" />
+    <ClInclude Include="..\src\AIPlayer.h" />
+    <ClInclude Include="..\src\humanPlayer.h" />
+    <ClInclude Include="..\src\othello.h" />
+    <ClInclude Include="..\src\player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

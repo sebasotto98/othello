@@ -1,11 +1,1 @@
-﻿  AIPlayer.cpp
-  humanPlayer.cpp
-  main.cpp
-  othello.cpp
-  player.cpp
-  Generating code
-  97 of 131 functions (74.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    7 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Othello.vcxproj -> C:\Users\sebastian\Downloads\Othello\Release\Othello.exe
+﻿  Othello.vcxproj -> C:\Users\sebastian\Downloads\GitHub\Othello\Release\Othello.exe

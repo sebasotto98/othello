@@ -1,9 +1,7 @@
 ﻿/*
-* Authors
-* |AM	  |NAME										  |
-* |3160004|ΣΕΜΠΑΣΤΙΑΝ ΚΡΙΣΤΟ ΑΛΜΠΕΡΝΑΖ ΝΤΕ ΣΟΤΤΟ ΜΑΙΟΡ|
-* |3160072|ΜΙΧΑΗΛ ΚΩΝΣΤΑΝΤΑΚΟΣ					      |
-* |3160111|ΟΡΦΕΑΣ ΜΠΟΥΣΟΥΛΑΣ-ΡΑΪΚΙΔΗΣ			      |
+* Authors:
+*	Sebastian Cristo Albernaz de Sotto Mayor
+*	Michail Konstantakos
 *
 * Desc: Othello game with PvP, PvE and EvE modes using the recursive minimax algorithm with a-b pruning.
 */
